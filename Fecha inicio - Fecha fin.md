@@ -12,3 +12,5 @@ Y estáis a tiempo de apuntaros a la edición de este año: https://aibirds.org
 Si te gustó la charla de [redes neuronales que tuvimos](https://www.youtube.com/watch?v=yN3bPRHLd5s) seguro que quieres seguir el nuevo podcast sobre machine learning ["Talking Machines"](http://www.thetalkingmachines.com). Ya van dos episodios e intervienen varios pesos pesados del campo.
 
 Aquí tenéis los episodios: http://www.thetalkingmachines.com/
+
+Y si escuchar en guiri no es lo vuestro [aquí tenéis una transcripción](http://pastebin.com/N3RuPQ8c). Por supuesto ha sido creada con [reconocimiento automático de voz](http://www.reddit.com/r/MachineLearning/comments/2r5cuq/talkingmachines_a_new_podcast_featuring/cnd1h0p).
