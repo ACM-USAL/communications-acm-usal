@@ -9,6 +9,8 @@ Este es el ganador de 2014: https://www.youtube.com/watch?v=8RWo8LCgJPc
 Y estáis a tiempo de apuntaros a la edición de este año: https://aibirds.org
 
 ##Talking Machines: Machine Learning podcast
+![Talking Machines](http://static1.squarespace.com/static/54a56ccbe4b0ab38fed9fc81/t/54a56d1fe4b0c309d01404ce/1421332685021/?format=1500w)
+
 Si te gustó la charla de [redes neuronales que tuvimos](https://www.youtube.com/watch?v=yN3bPRHLd5s) seguro que quieres seguir el nuevo podcast sobre machine learning ["Talking Machines"](http://www.thetalkingmachines.com). Ya van dos episodios e intervienen varios pesos pesados del campo.
 
 Aquí tenéis los episodios: http://www.thetalkingmachines.com/
