@@ -1,6 +1,5 @@
 #The fracking best balatin
-##Angry Birds AI Competitio
-_AI_
+##Angry Birds AI Competition
 ![Angry Birds AI Competition](https://aibirds.org/images/banners/aibirds.png)
 
 Sí, existe. Su objetivo es desarrollar el mejor agente capaz de jugar al Angry Birds y 2015 será su cuarto año. Es sencillo, el programa tiene que ver la pantalla, decidir los movimientos y ejecutarlos. Pero sorpresa, no fueron capaces de derrotar a un humano (por mucho).
