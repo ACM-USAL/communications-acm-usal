@@ -20,6 +20,7 @@ Y si escuchar en guiri no es lo vuestro [aquí tenéis una transcripción](http:
 
 ##Nuevo récord mundial en ordenación de datos
 ![Apache Spark](http://docs.sigmoidanalytics.com/images/c/ce/Sparkimage.png)
+
 El equipo de Databricks participó en la última competición de [Sort Benchmark](http://sortbenchmark.org/) utilizando Apache Spark y una infraestructura en la nube utilizando [Amazon Elastic Cloud](http://aws.amazon.com/ec2/).
 
 Apache Spark, el llamado sucesor de Hadoop MapReduce hace justicia a su nombre, ordenando 100 terabytes de datos en 23 minutos, reduciendo en más de la mitad el tiempo de ordenación requerido por MapReduce (72 minutos).
