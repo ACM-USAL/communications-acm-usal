@@ -1,3 +1,4 @@
+<!--¿Fecha: 15 de enero-31 de enero?-->
 #The fracking best balatin
 ##Angry Birds AI Competition
 ![Angry Birds AI Competition](https://aibirds.org/images/banners/aibirds.png)
@@ -17,3 +18,10 @@ Aquí tenéis los episodios: http://www.thetalkingmachines.com/
 
 Y si escuchar en guiri no es lo vuestro [aquí tenéis una transcripción](http://pastebin.com/N3RuPQ8c). Por supuesto ha sido creada con [reconocimiento automático de voz](http://www.reddit.com/r/MachineLearning/comments/2r5cuq/talkingmachines_a_new_podcast_featuring/cnd1h0p).
 
+##Nuevo récord mundial en ordenación de datos
+![Apache Spark](http://docs.sigmoidanalytics.com/images/c/ce/Sparkimage.png)
+El equipo de Databricks participó en la última competición de [Sort Benchmark](http://sortbenchmark.org/) utilizando Apache Spark y una infraestructura en la nube utilizando [Amazon Elastic Cloud](http://aws.amazon.com/ec2/).
+
+Apache Spark, el llamado sucesor de Hadoop MapReduce hace justicia a su nombre, ordenando 100 terabytes de datos en 23 minutos, reduciendo en más de la mitad el tiempo de ordenación requerido por MapReduce (72 minutos).
+
+Los chicos de opensource.com han hecho una comparativa exhaustiva de ambos competidores y detallan el proceso de creación de la infraestructura necesaria para batir este record. Puedes encontrar más [aquí](http://opensource.com/business/15/1/apache-spark-new-world-record).
