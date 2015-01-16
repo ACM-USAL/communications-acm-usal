@@ -17,5 +17,3 @@ Aquí tenéis los episodios: http://www.thetalkingmachines.com/
 
 Y si escuchar en guiri no es lo vuestro [aquí tenéis una transcripción](http://pastebin.com/N3RuPQ8c). Por supuesto ha sido creada con [reconocimiento automático de voz](http://www.reddit.com/r/MachineLearning/comments/2r5cuq/talkingmachines_a_new_podcast_featuring/cnd1h0p).
 
-
-#Ya llega Project Ara
