@@ -26,3 +26,12 @@ El equipo de Databricks participó en la última competición de [Sort Benchmark
 Apache Spark, el llamado sucesor de Hadoop MapReduce hace justicia a su nombre, ordenando 100 terabytes de datos en 23 minutos, reduciendo en más de la mitad el tiempo de ordenación requerido por MapReduce (72 minutos).
 
 Los chicos de opensource.com han hecho una comparativa exhaustiva de ambos competidores y detallan el proceso de creación de la infraestructura necesaria para batir este record. Puedes encontrar más [aquí](http://opensource.com/business/15/1/apache-spark-new-world-record).
+
+##Entrevista con Margaret Hamilton
+![Margaret Hamilton](https://d262ilb51hltx0.cloudfront.net/max/800/1*qJnPOGdtk1q7dq17tx1aYg.gif)
+
+Margaret Hamilton es la responsable del software de control en las misiones del programa Apolo. Gracias a su trabajo, se demostró que el software es capaz de controlar procesos críticos en tiempo real, además de conseguir que sus compañeros en otros departamentos tomaran el desarrollo de software como una disciplina de la Ingeniería más. Se le atribuye la creación del término "Ingeniería del Software".
+
+En la entrevista, Margaret habla de sus años en la NASA y sus proyectos posteriores, como la creación de su propia compañía.
+
+Podéis leer la entrevista completa en este [enlace](https://medium.com/@verne/margaret-hamilton-the-engineer-who-took-the-apollo-to-the-moon-7d550c73d3fa)
