@@ -38,5 +38,7 @@ Podéis leer la entrevista completa en este [enlace](https://medium.com/@verne/m
 
 ##Facebook libera sus herramientas de *Deep learning*
 
+![Facebook](http://www.kurzweilai.net/images/facebook_logo.png)
+
 Facebook ha anunciado en su [blog](https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch/) que publicará el código de varios módulos de *deep-learning* para la biblioteca [Torch](http://torch.ch/). Entre estos módulos, destacan una serie de componentes optimizados para su uso con GPUs y redes convolucionales y herramientas para el procesado del lenguaje natural, así como otros componentes para la plataforma NVIDIA CUDA. Facebook asegura que han mejorado significativamente el rendimiento de la biblioteca gracias a estos componentes.
 El código se encuentra en [GitHub](https://github.com/facebook/fbcunn) bajo una licencia BSD.
