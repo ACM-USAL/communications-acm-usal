@@ -35,3 +35,8 @@ Margaret Hamilton es la responsable del software de control en las misiones del 
 En la entrevista, Margaret habla de sus años en la NASA y sus proyectos posteriores, como la creación de su propia compañía.
 
 Podéis leer la entrevista completa en este [enlace](https://medium.com/@verne/margaret-hamilton-the-engineer-who-took-the-apollo-to-the-moon-7d550c73d3fa)
+
+##Facebook libera sus herramientas de *Deep learning*
+
+Facebook ha anunciado en su [blog](https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch/) que publicará el código de varios módulos de *deep-learning* para la biblioteca [Torch](http://torch.ch/). Entre estos módulos, destacan una serie de componentes optimizados para su uso con GPUs y redes convolucionales y herramientas para el procesado del lenguaje natural, así como otros componentes para la plataforma NVIDIA CUDA. Facebook asegura que han mejorado significativamente el rendimiento de la biblioteca gracias a estos componentes.
+El código se encuentra en [GitHub](https://github.com/facebook/fbcunn) bajo una licencia BSD.
