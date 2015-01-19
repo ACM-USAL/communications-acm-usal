@@ -42,3 +42,16 @@ Podéis leer la entrevista completa en este [enlace](https://medium.com/@verne/m
 
 Facebook ha anunciado en su [blog](https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch/) que publicará el código de varios módulos de *deep-learning* para la biblioteca [Torch](http://torch.ch/). Entre estos módulos, destacan una serie de componentes optimizados para su uso con GPUs y redes convolucionales y herramientas para el procesado del lenguaje natural, así como otros componentes para la plataforma NVIDIA CUDA. Facebook asegura que han mejorado significativamente el rendimiento de la biblioteca gracias a estos componentes.
 El código se encuentra en [GitHub](https://github.com/facebook/fbcunn) bajo una licencia BSD.
+
+##Google revela una vulnerabilidad en Windows por tercera vez este mes
+
+![Google](http://core3.staticworld.net/images/article/2014/02/8_securitytips_primary-100024721-large-100246920-large.jpg)
+
+Google ha descubierto una vulnerabilidad que afecta a los sistemas Windows 7 y 8.1 que puede crear un *bypass* en los sistemas de encriptación de memoria para el intercambio de información entre procesos.
+Google Project Zero es un departamento de la compañía que se encarga de investigar vulnerabilidades entre sistemas de forma ética (avisando primero al fabricante para que tenga tiempo de crear un parche antes de que la vulnerabilidad sea pública, y por tanto, pueda potencialmente afectar a más usuarios). Entonces, ¿cuál es el problema?
+
+El desencuentro entre Microsoft y Google se debe a sus estrictas políticas en este aspecto. Google avisa a la compañía 90 días antes de que liberen el parche. Microsoft, celebra cada mes un "Patch Tuesday", en el que liberan actualizaciones que corrigen fallos y vulnerabilidades en sus productos. Debido a la falta de flexibilidad de ambas partes, Google publicó la vulnerabilidad sin que hubiera una solución oficial disponible.
+
+La situación no es tan absurda como el caso de la anterior vulnerabilidad detectada: la diferencia entre la fecha de lanzamiento del parche y del vencimiento del plazo de 90 días de Google fue de 2 días. Sin embargo, Microsoft se negó a modificar la fecha de lanzamiento, y Google a esperar.
+
+Fuente | [PCWorld](http://www.pcworld.com/article/2871612/google-publishes-third-windows-0day-vulnerability-in-a-month.html)
