@@ -55,3 +55,16 @@ El desencuentro entre Microsoft y Google se debe a sus estrictas políticas en e
 La situación no es tan absurda como el caso de la anterior vulnerabilidad detectada: la diferencia entre la fecha de lanzamiento del parche y del vencimiento del plazo de 90 días de Google fue de 2 días. Sin embargo, Microsoft se negó a modificar la fecha de lanzamiento, y Google a esperar.
 
 Fuente | [PCWorld](http://www.pcworld.com/article/2871612/google-publishes-third-windows-0day-vulnerability-in-a-month.html)
+
+##Los hackers de PS Network y XBOX Live han probado su propia medicina... de la forma más ridícula
+
+![PSN](http://blogs-images.forbes.com/erikkain/files/2014/12/Screenshot-154.png)
+
+Los chicos de *Lizard Squad* (Escuadrón Lagarto) han ganado bastante popularidad al conseguir inhabilitar los servicios de juego online de PlayStation y Microsoft. Su éxito les llevó a crear una aplicación, *Lizard Stresser*, que permite a los usuarios pagar por el ataque a webs mediante denegación de servicio.
+
+Ahora viene lo divertido: Según el blog Krebson Security, todo el código de la aplicación proviene de *titaniumstresser*, otro servicio de este tipo. Además, los miembros de este equipo han demostrado sus escasos conocimientos en programación al 	exponer toda la base de datos de clientes al público. [Mediante un simple script de Python](http://www.ericzhang.me/lizardstresser-user-enumeration/#more-449) han conseguido toda la base de datos, que ahora mismo se puede consultar [aquí](http://www.ericzhang.me/dl/filestore/lizardstresser-user-dump.txt)
+
+En el blog Krebson security podéis leer la historia con más detalle. Preparad un bol de palomitas.
+
+Fuente | [Krebson Security](http://krebsonsecurity.com/2014/12/lizard-kids-a-long-trail-of-fail/)
+
