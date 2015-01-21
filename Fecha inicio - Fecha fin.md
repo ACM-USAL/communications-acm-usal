@@ -68,3 +68,40 @@ En el blog Krebson security podéis leer la historia con más detalle. Preparad 
 
 Fuente | [Krebson Security](http://krebsonsecurity.com/2014/12/lizard-kids-a-long-trail-of-fail/)
 
+##La holografía es la apuesta de Microsoft por la realidad aumentada
+
+![HoloLens](http://www.highdefdigest.com/uploads/jb/hololens_full.jpg)
+
+Parece que los chicos de Microsoft se han puesto las pilas con el mundo de la realidad aumentada. En la presentación de Windows 10 hemos podido ver una prueba de concepto de lo que será HoloLens, unas gafas de realidad aumentada que apuestan por las proyecciones tridimensionales en el entorno para crear una sensación de realidad aumentada que nos ha gustado mucho.
+
+![HoloCraft](http://www.highdefdigest.com/uploads/jb/HoloLens_minecraft_twoe.jpg)
+
+Quizá para el taller de OpenCV podamos hacer algo de realidad aumentada. ¿Quién se apunta?
+
+#En ACM
+
+![ACM](https://acm.cs.uic.edu/sites/default/files/acm_logo.gif)
+
+##ACM nombra a los ACM Fellows de este año
+
+ACM ha reconocido el trabajo de 47 de sus socios por sus contribuciones a las Ciencias de la Computación. Muchos de ellos forman parte de universidades, empresas y centros de investigación líderes en diferentes áreas de conocimiento, aportando con su trabajo nuevos avances que hacen del mundo un lugar cada vez más avanzado.
+
+Aquí podéis ver la lista completa | [Enlace](http://awards.acm.org/fellow/year.cfm)
+
+#En ACM USAL
+
+![ACM USAL](http://usal.acm.org/wp-content/uploads/avatars/1/21354a5d482ec3c09243aba5885a0044-bpfull.png)
+
+##Talleres, cursos, seminarios... ¡El segundo semestre promete!
+
+A pesar de que aún queda mucho trabajo por delante, el segundo semestre tiene muy buena pinta. Tenemos más de 10 actividades planeadas, muchas de ellas con reconocimiento oficial, colaboradores externos... Sólo nos falta que te animes a colaborar en alguna de ellas. Toda actividad lleva una preparación en equipo por detrás, en la cual siempre se aprende algo nuevo. Ya sea para comenzar a dominar la programación en web, Visión Artificial o nuevos lenguajes de programación, hay un taller con un equipo que te busca. Puedes utilizar la lista o el grupo de Telegram para contactar con el resto de interesados. Y como siempre, cualquier propuesta de actividad es bienvenida.
+
+##¡Los SIGs arrancan!
+
+Hace unos meses comenzamos la idea de los SIGs (*Special Groups of Interest*) con el propósito de dinamizar el trabajo y favorecer el intercambio de ideas. Parece que la idea está funcionando, y cada día los miembros de cada grupo comparten novedades, descubrimientos o ideas, que en muchas ocasiones, terminan siendo propuesta de actividad. ¿Te apetece entrar en uno de ellos, o incluso crear uno nuevo? Aquí tienes los grupos existentes actualmente: 
+
+* SIGMOBILE (Desarrollo móvil)
+* SIGROB (Robótica)
+* SIGAI (Inteligencia Artificial)
+* SIGDEV (Desarrollo y lenguajes de programación)
+* SIGWEB (Desarrollo web y seguridad)
