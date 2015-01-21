@@ -72,7 +72,7 @@ Fuente | [Krebson Security](http://krebsonsecurity.com/2014/12/lizard-kids-a-lon
 
 ![Eigen valores](http://i.imgur.com/BaRpGRI.png)
 
-Aunque en las clases de Álgebra quizá no quedara claro los autovectores/autovalores (o eigenvalues para que el [rarito de los idiomas](https://twitter.com/alternhuman) sea feliz) sirven para cosas. Están en los algoritmos de búsqueda de google o en las predicciones de crecimiento de poblaciones, pero en este caso lo interesante es la visualización que os traemos:
+Aunque en las clases de Álgebra quizá no quedara claro, los autovectores/autovalores (o eigenvalues para que el [rarito de los idiomas](https://twitter.com/alternhuman) sea feliz) sirven para cosas. Están en los algoritmos de búsqueda de google o en las predicciones de crecimiento de poblaciones, pero en este caso lo interesante es la visualización que os traemos:
 
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
 
