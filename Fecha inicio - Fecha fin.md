@@ -68,3 +68,15 @@ En el blog Krebson security podéis leer la historia con más detalle. Preparad 
 
 Fuente | [Krebson Security](http://krebsonsecurity.com/2014/12/lizard-kids-a-long-trail-of-fail/)
 
+##Visualizando Auto(valores|vectores)
+
+![Eigen valores](http://i.imgur.com/BaRpGRI.png)
+
+Aunque en las clases de Álgebra quizá no quedara claro los autovectores/autovalores (o eigenvalues para que el [rarito de los idiomas](https://twitter.com/alternhuman) sea feliz) sirven para cosas. Están en los algoritmos de búsqueda de google o en las predicciones de crecimiento de poblaciones, pero en este caso lo interesante es la visualización que os traemos:
+
+http://setosa.io/ev/eigenvectors-and-eigenvalues/
+
+Así que si no tenéis claro como funcionan os recomendamos echarle unos minutillos, que siguiendo los ejemplos fijo que les acabáis cogiendo cariño ;).
+
+Si te ha gustado, la visualización está hecha con la libreria [d3.js](http://d3js.org/) y en su web hay muchos ejemplos.
+
